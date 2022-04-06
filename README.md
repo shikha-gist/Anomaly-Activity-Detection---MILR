@@ -5,10 +5,10 @@ Abnormal activity detection is one of the most challenging tasks in the field of
 
 ![alt text](https://github.com/shikha-gist/Anomaly-Activity-Detection---MILR/blob/main/arch.png)
 
-## DMRMs Frame-level AUC (in %) Evaluation on UCF-Crime Dataset
+## MILR Frame-level AUC (in %) Evaluation on UCF-Crime Dataset
 Model | UCF-Crime 
 --- | --- 
-DMRMs | 76.67 
+MILR | 76.67 
 
 
 
